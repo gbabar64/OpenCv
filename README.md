@@ -1,5 +1,6 @@
-Interactive Fluid-Background
-What is this
+#Interactive Fluid-Background
+
+What is this?
 An interactive visual background that disturbs a fluid simulation by tracking intentional hand movements. Hand positions are detected with MediaPipe + OpenCV, converted into cursor coordinates with PyAutoGUI and injected into a TouchDesigner fluid setup to create colorful, low-latency, real-time visual effects.
 This project was built as an experiment in gestural interaction and live visuals, the hand motion becomes a natural controller that creates ripples, splashes and color shifts in a fluid field.
 ________________________________________
